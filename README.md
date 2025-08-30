@@ -1,11 +1,3 @@
-Mantap 🚀, saya tambahin **GIF demo** biar README kamu lebih hidup dan profesional.
-
-Kalau kamu belum punya GIF, nanti tinggal bikin screen recording (pakai OBS, ScreenToGif, atau RecordCast), simpan jadi `.gif`, lalu taruh di folder project (`assets/demo.gif`).
-
-Ini versi **README.md** yang sudah ada **GIF Demo**-nya 👇
-
----
-
 ````markdown
 # 🇮🇩 Indonesia Berduka – Digital Tribute Page  
 
@@ -105,5 +97,6 @@ Ketika link dibagikan ke media sosial, akan muncul:
 ## ⭐ Dukungan
 
 Jika project ini menginspirasi atau bermanfaat, silakan beri **⭐ Star** pada repo ini 🙏
+
 
 ```
